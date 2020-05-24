@@ -25,7 +25,7 @@ SECRET_KEY = 'dimd4uk&u=yf_(#w3p#v#2w@kmcxkohern!0%lfq$327avf062'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [*]
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
